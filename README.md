@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thimira Amarakoon</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">Im a fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thimira99&label=Profile%20views&color=0e75b6&style=flat" alt="thimira99" /> </p>
 
